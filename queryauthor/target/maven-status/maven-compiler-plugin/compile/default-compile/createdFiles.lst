@@ -1,0 +1,7 @@
+com/hadoop/queryauthor/QueryAuthor.class
+com/hadoop/queryauthor/QueryAuthor$BookReducer.class
+com/hadoop/queryauthor/AuthorAndBooksReduce.class
+com/hadoop/queryauthor/Book.class
+com/hadoop/queryauthor/QueryAuthor$BookCombiner.class
+com/hadoop/queryauthor/QueryAuthor$BookMapper.class
+com/hadoop/queryauthor/BookAuthorMap.class

@@ -1,0 +1,7 @@
+com/hadoop/AuthorBook/AuthorAndBooksReduce.class
+com/hadoop/AuthorBook/CombineBooks$BookCombiner.class
+com/hadoop/AuthorBook/Book.class
+com/hadoop/AuthorBook/CombineBooks$BookMapper.class
+com/hadoop/AuthorBook/CombineBooks$BookReducer.class
+com/hadoop/AuthorBook/BookAuthorMap.class
+com/hadoop/AuthorBook/CombineBooks.class
